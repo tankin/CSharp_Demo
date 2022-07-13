@@ -3,6 +3,7 @@
 ## TestConsoleRestart
 A simple console execution which receive a keyboard input "R"/"r" to restart itself.  
 Test in netcoreapp3.1 runtime, it is not necessary, and works well in other runtime.
+Or you can use watchdog to check whether it is running periodly, if not, run the console execution.
 
 
 ## TestListRemove
