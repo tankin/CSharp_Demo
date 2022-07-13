@@ -14,4 +14,5 @@ Liquid is a popular template language implemented by ruby to produce text
 In C#, there's a DotLiquid library doing the same thing  
 Here is a simple test to demostrate how to use it.
 
-
+## TestBinaryWriter
+Provide two methods to implement converting data to bytes and write them into file.
